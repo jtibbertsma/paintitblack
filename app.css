@@ -1,0 +1,13 @@
+body, html {
+  margin: 0;
+}
+
+#main {
+  background: #eee;
+}
+
+.tile {
+  float: left;
+  width: 10px;
+  height: 10px;
+}
